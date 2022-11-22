@@ -5,4 +5,5 @@ NetCI NetStar Uygulamımızı Yakında GitHub MarketPlace Yayında Olacak.
 twitter_username: guler_ercetin
 email: ercetinguler@starteknoloji.space
 yazar:  Erçetin Güler
-markdown: krondown
+markdown: kramdown
+remote_teheme: benbalter/retlab
