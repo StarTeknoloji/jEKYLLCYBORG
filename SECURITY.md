@@ -14,5 +14,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerabil ##
 https://ercetinguler@codesexe.com 
-https://www.starteknoloji.space
+https://starteknoloji.space
 öneri: Yeni başlayan kullanıcıların ilk yapıçağı Dependabot uyarılarını etkinleştirmek.
